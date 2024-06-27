@@ -38,13 +38,7 @@ This report provides an in-depth analysis of Amazon sales data from April 30, 20
 - **Shipped:** 84.8%
 - **Cancelled:** 15.2%
 
-### Fulfillment Channel
 
-- **Merchant:** 100%
-
-### Sales Channels
-
-- **Amazon.in:** 100%
 
 ---
 
