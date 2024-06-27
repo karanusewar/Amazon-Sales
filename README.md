@@ -1,8 +1,5 @@
 # Amazon Sales Report
 
-**June 23, 2024**
-
----
 
 ## Executive Summary
 
